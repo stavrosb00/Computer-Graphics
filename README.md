@@ -1,7 +1,7 @@
 # Computer-Graphics
 
 #### Computer Graphics Projects ECE AUTh 2021-22          
-### Project 1 : Triangle filling and image rendering based on [scanline algorithm][https://hackernoon.com/computer-graphics-scan-line-polygon-fill-algorithm-3cb47283df6]
+### Project 1 : Triangle filling and image rendering based on [scanline algorithm](https://hackernoon.com/computer-graphics-scan-line-polygon-fill-algorithm-3cb47283df60)
 - Rendering image using Gouraud/Flat shader
 ### Project 2 : Transformations and projections based on coordinate system transformations-linear algebra.
 - Translation
